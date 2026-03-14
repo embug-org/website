@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'EMBUG'
-copyright = '2025, Bernd Bauer'
+copyright = '2026, Bernd Bauer'
 author = 'Bernd Bauer'
 
 # -- General configuration ---------------------------------------------------

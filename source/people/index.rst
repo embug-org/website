@@ -1,8 +1,8 @@
-Blog
-====
+People
+======
 
 .. toctree::
    :maxdepth: 1
    :caption: Index
 
-   /blog/bernd/index
+   /people/01_bernd
