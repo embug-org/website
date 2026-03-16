@@ -1,4 +1,3 @@
 .*.swp
 build/
-source/_tags/
 venv/

@@ -18,7 +18,6 @@ jobs:
           run: |
             make html
             mv build/html docs
-            rm -rf build
         - name: Deploy to GitHub Pages
           uses: peaceiris/actions-gh-pages@v3
           if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
