@@ -2,7 +2,5 @@
 ====
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Index
 
-   /regulars_table/2026/april
+   /regulars_table/2026/04_april
