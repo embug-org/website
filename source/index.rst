@@ -13,7 +13,7 @@ EMBUG - Embedded User Group Graz
    /blog/index
 
 .. important::
-   The next regulars table will take place on April 8, 2026, at 6:00 p.m. at Glöckl Bräu.
+   The next regulars table will take place on April 8, 2026, at 6:00 p.m. at Herzl Weinstube.
    See :doc:`April 2026 <regulars_table/2026/04_april>`.
 
 .. note::

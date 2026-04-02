@@ -1,16 +1,17 @@
 April 2026
 ==========
 
-This regulars' table will take place on April 8, 2026, at 6:00 p.m at Glöckl Bräu.
+This regulars' table will take place on April 8, 2026, at 6:00 p.m at Herzl Weinstube.
 
 Possible agenda
 ---------------
 
 * Meshtastik: Brief Introduction and Showcase
 * Linuxtage Graz
-* Feedback Homepage
 * Trip to the CCC
+* Feedback Homepage
+* Access to Homepage
 
-`Glöckl Bräu <https://www.gloecklbraeu.at/>`_
+`Die Herzl <https://dieherzl.at>`_
 
-`Glöckl Bräu OpenStreetMap <https://www.openstreetmap.org/node/269957911>`_
+`Die Herzl OpenStreetMap <https://www.openstreetmap.org/node/888735554>`_
