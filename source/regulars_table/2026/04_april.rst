@@ -1,14 +1,17 @@
 April 2026
 ==========
 
-This regulars' table will take place on April 8, 2026, at 6:00 p.m at Herzl Weinstube.
+The regular meeting took place on April 8, 2026, at 6:00 p.m. at the Herzl Weinstube.
 
-Possible agenda
----------------
+It was a really nice evening.
+Good food and good conversation. As usual...
+A total of 14 people were there throughout the evening.
+
+Conversations
+-------------
 
 * Meshtastik: Brief Introduction and Showcase
 * Linuxtage Graz
-* Trip to the CCC
 * Feedback Homepage
 * Access to Homepage
 
