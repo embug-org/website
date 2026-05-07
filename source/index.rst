@@ -13,9 +13,9 @@ EMBUG - Embedded User Group Graz
    /blog/index
 
 .. important::
-   The next regulars table will take place on May 6, 2026, at 6:00 p.m.
-   We're meeting at "Das Eggenberg".
-   See :doc:`May 2026 <regulars_table/2026/05_may>`.
+   The next regulars table will take place on June 3, 2026, at 6:00 p.m.
+   The location will be announced at a later date.
+   See :doc:`June 2026 <regulars_table/2026/06_june>`.
 
 .. note::
    This site is under construction!
