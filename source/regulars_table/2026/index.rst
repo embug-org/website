@@ -6,3 +6,4 @@
    /regulars_table/2026/04_april
    /regulars_table/2026/05_may
    /regulars_table/2026/06_june
+   /regulars_table/2026/07_july
