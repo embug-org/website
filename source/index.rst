@@ -13,8 +13,9 @@ EMBUG - Embedded User Group Graz
    /blog/index
 
 .. important::
-   The next regulars table will take place on July 1, 2026, at 6:00 p.m. at Biergartl.
-   See :doc:`July 2026 <regulars_table/2026/07_july>`.
+   The next regulars table will take place on August 5th, 2026, at 6:00 p.m.
+   The location will be announced at a later date.
+   See :doc:`August 2026 <regulars_table/2026/08_august>`.
 
 .. note::
    This site is under construction!
