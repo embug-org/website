@@ -13,7 +13,10 @@ author = 'Bernd Bauer'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_rtd_theme']
+extensions = [
+    'sphinx_rtd_theme',
+    'sphinx.ext.todo',
+    ]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -39,3 +42,5 @@ html_theme_options = {
 html_static_path = ['_static']
 
 html_extra_path = ['CNAME']
+
+todo_include_todos = True
