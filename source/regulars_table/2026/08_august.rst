@@ -1,7 +1,10 @@
 August 2026
 ===========
 
-This regulars table will take place on August 5th, 2026, at 6:00 p.m. at Eschenlaube.
+This regulars' table meeting took place on August 5, 2026, at 6:00 p.m. at the Eschenlaube.
+
+I think that was a new attendance record.
+**There were 20 of us!**
 
 `Eschenlaube <https://eschenlaube.at>`_
 
