@@ -41,3 +41,4 @@ On the following pages, I’d like to tell you a little about my new hobby...
    /blog/bernd/02_retro_computing/01_equipment
    /blog/bernd/02_retro_computing/02_restauration
    /blog/bernd/02_retro_computing/03_retro_brighting
+   /blog/bernd/02_retro_computing/10_c64development/index
