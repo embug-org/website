@@ -14,7 +14,7 @@ EMBUG - Embedded User Group Graz
 
 .. important::
    The next regulars table will take place on September 2nd, 2026, at 6:00 p.m.
-   The location will be announced at a later date.
+   We're meeting at Glöckl Bräu.
    See :doc:`September 2026 <regulars_table/2026/09_september>`.
 
 .. note::
