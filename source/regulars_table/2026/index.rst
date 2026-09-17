@@ -9,3 +9,4 @@
    /regulars_table/2026/07_july
    /regulars_table/2026/08_august
    /regulars_table/2026/09_september
+   /regulars_table/2026/10_october
