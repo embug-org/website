@@ -23,3 +23,4 @@ Maybe one or two of you will be inspired to get into retro development as well.
 .. toctree::
 
    /blog/bernd/02_retro_computing/10_c64development/01_development_environment
+   /blog/bernd/02_retro_computing/10_c64development/02_first_c64_program
