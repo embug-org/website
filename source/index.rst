@@ -13,8 +13,7 @@ EMBUG - Embedded User Group Graz
    /blog/index
 
 .. important::
-   The next regulars table will take place on October 7th, 2026, at 6:00 p.m.
-   The location will be announced at a later date.
+   The next regulars table will take place on October 7th, 2026, at 6:00 p.m. at Scherbe.
    See :doc:`October 2026 <regulars_table/2026/10_october>`.
 
 .. note::
