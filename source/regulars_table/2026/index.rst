@@ -11,3 +11,4 @@
    /regulars_table/2026/09_september
    /regulars_table/2026/10_october
    /regulars_table/2026/11_november
+   /regulars_table/2026/12_december

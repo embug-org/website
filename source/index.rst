@@ -13,8 +13,8 @@ EMBUG - Embedded User Group Graz
    /blog/index
 
 .. important::
-   The next regulars table will take place on November 4th, 2026, at 6:00 p.m. at Alte Presse.
-   See :doc:`November 2026 <regulars_table/2026/11_november>`.
+   The next regulars table will take place on December 2nd, 2026, at 6:00 p.m. at Realraum.
+   See :doc:`December 2026 <regulars_table/2026/12_december>`.
 
 .. note::
    This site is under construction!
