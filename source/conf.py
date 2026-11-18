@@ -37,7 +37,10 @@ html_theme_options = {
     'titles_only': False,
     'collapse_navigation': False,
     'titles_only': True,
+    'logo_only': True,
 }
+
+html_logo = "_static/embug_logo_small.png"
 
 html_static_path = ['_static']
 
